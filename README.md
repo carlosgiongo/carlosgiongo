@@ -18,7 +18,7 @@
   <br>
   🎓 Estou atualmente cursando Sistemas da informação na UNOESC/Chapecó
   <br>
-  🎓 Sou graduado técnico em Análise e desenvolvimento de sistemas pelo SENAI/Chapecó
+  🎓 Sou graduado técnico em Desenvolvimento de Sistemas pelo SENAI/Chapecó
   <br>
   💻 Sou um adorador de tecnologias server-side e cada dia me desenvolvo mais na área.
   <br>
