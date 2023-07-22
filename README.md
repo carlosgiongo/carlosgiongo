@@ -24,7 +24,7 @@
   <br>
   📚 Atualmente, buscando me aprimorar com typescript para Node.js e Flask python
   <br>
-  📫 Me chama para trocarmos uma ideia: <a href="mailto: carlosgiongoo@gmail.com">carlosgiongoo@gmail.com</a>
+  📫 Me chama para trocarmos uma ideia: <a href="mailto: contato@carlosgiongo.com.br">contato@carlosgiongo.com.br</a>
 </p>
 
 <hr>
