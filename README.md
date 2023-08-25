@@ -22,9 +22,11 @@
   <br>
   💻 Sou um adorador de tecnologias server-side e cada dia me desenvolvo mais na área.
   <br>
-  📚 Atualmente, buscando me aprimorar com typescript para Node.js e Flask python
-  <br>
   📫 Me chama para trocarmos uma ideia: <a href="mailto: contato@carlosgiongo.com.br">contato@carlosgiongo.com.br</a>
+  
+  <br>
+  <br>
+  Criador da <a href="https://github.com/Logic-Layer-Dev" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1692978953/team/9be79d6dec4177f9a3d45cb9e73843d1d07afd07d294249917b5b9cf7d16e6fe.png"> Logic Layer</a></code>
 </p>
 
 <hr>
