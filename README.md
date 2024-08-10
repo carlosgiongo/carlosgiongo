@@ -7,8 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/carlos-giongo/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/carlos-giongo/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/18868039/carlos-giongo" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
@@ -22,7 +21,7 @@
   <br>
   💻 Sou um adorador de tecnologias server-side e cada dia me desenvolvo mais na área.
   <br>
-  📫 Me chama para trocarmos uma ideia: <a href="mailto: contato@carlosgiongo.com.br">contato@carlosgiongo.com.br</a>
+  📫 Me chama para trocarmos uma ideia: <a href="mailto: contato@carlosgiongo.com.br">contato@giongo.dev</a>
   
   <br>
   <br>
