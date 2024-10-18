@@ -1,3 +1,27 @@
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgiongo&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgiongo&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=carlosgiongo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=carlosgiongo">
 
 <h1 align="center">
@@ -79,25 +103,4 @@
         Um agradecimento especial ao <a href='https://github.com/zumrudu-anka' targer='_blank'>zumrudu-anka</a>, idealizador desse tema.
     </p>
 </div>
-
-
-<!--
-**carlosgiongo/carlosgiongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/carlosgiongo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
 -->
