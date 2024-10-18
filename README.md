@@ -19,7 +19,11 @@
   
   <br>
   <br>
-  Criador da <a href="https://github.com/Logic-Layer-Dev" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1692978953/team/9be79d6dec4177f9a3d45cb9e73843d1d07afd07d294249917b5b9cf7d16e6fe.png"> Logic Layer</a></code>
+  Criador da <a href="https://github.com/Logic-Layer-Dev" title="Logic Layer Organization"><img width="22" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1692978953/team/9be79d6dec4177f9a3d45cb9e73843d1d07afd07d294249917b5b9cf7d16e6fe.png"> Logic Layer</a></code>
+</p>
+
+<p align="center">
+  Co-owner da <a href="https://oestagiario.dev/" title="Estagiário"><img width="22" src="https://oestagiario.dev/estagi/2.png"> Estagiário</a></code>
 </p>
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgiongo&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgiongo&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
