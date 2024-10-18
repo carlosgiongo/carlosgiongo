@@ -1,6 +1,26 @@
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  <!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg) -->
   
-
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/carlos-giongo/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/18868039/carlos-giongo" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+</h5>
+<br>
+<p align="center">
+  Olá! Me chamo Carlos Giongo, sou um estudante metido a desenvolvedor.
+  <br>
+  <br>
+  🎓 Estou atualmente cursando Sistemas da informação na UNOESC/Chapecó
+  <br>
+  🎓 Sou graduado técnico em Desenvolvimento de Sistemas pelo SENAI/Chapecó
+  <br>
+  💻 Adorador de tecnologias server-side.
+  <br>
+  📫 Me chama para trocarmos uma ideia: <a href="mailto: contato@giongo.dev">contato@giongo.dev</a>
+  
+  <br>
+  <br>
+  Criador da <a href="https://github.com/Logic-Layer-Dev" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1692978953/team/9be79d6dec4177f9a3d45cb9e73843d1d07afd07d294249917b5b9cf7d16e6fe.png"> Logic Layer</a></code>
+</p>
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgiongo&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgiongo&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
