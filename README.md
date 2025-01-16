@@ -9,11 +9,11 @@
   Olá! Me chamo Carlos Giongo, sou um estudante metido a desenvolvedor.
   <br>
   <br>
-  🎓 Estou atualmente cursando Sistemas da informação na UNOESC/Chapecó
+  🎓 Bacharel em Sistemas da informação pela UNOESC/Chapecó
   <br>
-  🎓 Sou graduado técnico em Desenvolvimento de Sistemas pelo SENAI/Chapecó
+  🎓 Graduado técnico em Desenvolvimento de Sistemas pelo SENAI/Chapecó
   <br>
-  💻 Adorador de tecnologias server-side.
+  💻 Apaixonado por tecnologias server-side.
   <br>
   📫 Me chama para trocarmos uma ideia: <a href="mailto: contato@giongo.dev">contato@giongo.dev</a>
   
