@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Co-owner da <a href="https://oestagiario.dev/" title="Estagiário"><img width="22" src="https://oestagiario.dev/estagi/2.png"> Estagiário</a></code>
+  Co-owner da <a href="https://oestagiario.dev/" title="Estagiário"><img width="48" src="https://www.oestagiario.dev/_next/image?url=%2Festagiario.png&w=256&q=75&dpl=dpl_4GMQVxUpvtT4x4EmNY21Fd89umKF"> Estagiário</a></code>
 </p>
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgiongo&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgiongo&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
