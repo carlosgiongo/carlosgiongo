@@ -41,9 +41,11 @@
 
  
 ##
+<!--
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=carlosgiongo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+-->
 
 <!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=carlosgiongo">
