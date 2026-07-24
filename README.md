@@ -9,9 +9,11 @@
   Olá! Me chamo Carlos Giongo, sou um estudante metido a desenvolvedor.
   <br>
   <br>
+  🎓 Graduado técnico em Desenvolvimento de Sistemas pelo SENAI/Chapecó
+  <br>
   🎓 Bacharel em Sistemas da informação pela UNOESC/Chapecó
   <br>
-  🎓 Graduado técnico em Desenvolvimento de Sistemas pelo SENAI/Chapecó
+  🎓 Mestrando em Computação Aplicada pela UDESC/Joinville
   <br>
   💻 Apaixonado por tecnologias server-side.
   <br>
@@ -19,17 +21,17 @@
   
   <br>
   <br>
-  Criador da <a href="https://github.com/Logic-Layer-Dev" title="Logic Layer Organization"><img width="22" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1692978953/team/9be79d6dec4177f9a3d45cb9e73843d1d07afd07d294249917b5b9cf7d16e6fe.png"> Logic Layer</a></code>
+  Co-owner da <a href="https://reserveapp.com.br" title="Reserve APP | Sistema para Gestão de Quadras"><img width="62" src="https://reserveapp.com.br/_app/immutable/assets/logo_reserve_estendida.C1dweNHL.png"> Reserve APP</a></code>
 </p>
 
 <p align="center">
   Co-owner da <a href="https://oestagiario.dev/" title="Estagiário"><img width="48" src="https://www.oestagiario.dev/_next/image?url=%2Festagiario.png&w=256&q=75&dpl=dpl_4GMQVxUpvtT4x4EmNY21Fd89umKF"> Estagiário</a></code>
 </p>
-  
+
+  <!--
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosgiongo&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgiongo&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
-
+ -->
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
@@ -39,8 +41,6 @@
 
   </div>
 
- 
-##
 <!--
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=carlosgiongo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
